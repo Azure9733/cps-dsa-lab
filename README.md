@@ -22,6 +22,11 @@ This course combines Object-Oriented Programming concepts in C++ with traditiona
 #### Related PYQs
 1. Illustrate the types of constructors using a program. (CO1, BL3, PO1, PO5) -- 3M 2023endsem
 2. Ilustrate operator overloading by writing a program which uses a unary ++ operator to increment a value. (CO1, BL3, PO1, PO5) -- 4M 2023endsem
+3. Write a C++ program to find the sum of numbers which illustrates the use of base class constructors in a single inheritance. (CO1, BL4, PO5). --3M 2024midsem
+4. How are control structures classified? Give the syntaxes for the different types. (CO1, BL2, PO1) --3M 2024midsem
+5. Write a program to illustrate the working of multilevel inheritance for the mathematical expression (a+b)^2 . Use two-member functions, one to read the data and the other to display its value. (CO1, BL4, PO5) --4M 2024midsem
+6. Illustrate function templates with multiple parameters using a C++ program. (CO1, BL4, PO5) --2M 2024midsem 
+7. Write a program in C++ to print a square pattern with the # character using loops. (CO1, BL4, PO5) --2M 2024midsem
 -----------------------------------------------------------------
 ## Part 2: Basic Data Structures and Recursion
 ### 2.1 Recursion
@@ -49,9 +54,9 @@ This course combines Object-Oriented Programming concepts in C++ with traditiona
 #### Related PYQs
 1. Write a program to delete an element at the end of the linked list of array size 12. (CO2, BL3, PO1, PO5) -- 3M 2023endsem
 2. Write a C++ program to implement a recursive function to calculate the sum of digits of a given number. (CO2, BL4, PO1, PO5) -- 3M 2023endsem
-3. Write a program to illustrate the working of multilevel inheritance for the mathematical expression . Use two-member functions, one to read the data and the other to display its value. (CO1, BL4, PO5) --4M 2023midsem
-4. Write a C++ program to find the sum of numbers which illustrates the use of base class constructors in a single inheritance. (CO1, BL4, PO5). --3M 2023midsem
-5. How are control structures classified? Give the syntaxes for the different types. (CO1, BL2, PO1) --3M 2023midsem
+3. Write a C++ program to implement a recursive function to calculate the product of two numbers without using the multiplication operator. (CO2, BL4, PO5) --3M 2024midsem
+4. Write a program in C++ to create a doubly linked list of ‘n’ nodes and count the
+number of nodes. (CO2, BL4, PO5) --3M 2024midsem
 - -------------------------------------------------------------
 ## Part 3: Advanced Data Structures
 ### 3.1 Trees
@@ -81,8 +86,9 @@ Core Concepts
    Write the algorithm for the prefix expression for an expression tree. Draw the expression tree. (CO3, BL4, PO1, PO3) --5M 2023endsem
 5. Calculate the order to print all the nodes of the graph starting from the root node using Depth first
 search algorithm. Consider 0 as the root node. (CO3, BL4, PO1, PO3) --4M 2023endsem
-![image](https://github.com/user-attachments/assets/b0c7769b-945e-4ad6-867c-b14ea57265a7)  
-
+![image](https://github.com/user-attachments/assets/b0c7769b-945e-4ad6-867c-b14ea57265a7)
+6. What are the different traversal algorithms in binary search tree? Write the algorithms. (CO3, BL2, PO1) --3M 2024midsem
+7. Which properties of binary search tree make it a special type of binary tree? (CO3, BL2, PO1) --2M 2024midsem
 - ---------------------------------------------------------------
 ## Part 4: Python Implementation
 ### 4.1 Python Data Structures

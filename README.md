@@ -10,10 +10,13 @@ This course combines Object-Oriented Programming concepts in C++ with traditiona
 ## Part 1: C++ and Object-Oriented Programming
 ### 1.1 C++ Fundamentals
 #### Core Concepts
-- Structure of C++ Program
-- Data Types (Basic, User-defined, Derived)
-- Operators and Their Precedence
-- Control Statements and Functions
+- Structure of C++ Program ---> https://www.geeksforgeeks.org/cpp-basic-syntax/
+- Data Types (Primary, User-defined, Derived) ---> https://www.geeksforgeeks.org/cpp-data-types/
+- Operators and Their Precedence ---> https://www.geeksforgeeks.org/operators-in-cpp/ && https://www.geeksforgeeks.org/cpp-polymorphism/
+- Control Statements ---> https://www.geeksforgeeks.org/decision-making-c-cpp/
+- Functions ---> https://www.geeksforgeeks.org/c-functions/
+- Classes and Constructors ---> https://www.geeksforgeeks.org/c-classes-and-objects/ && https://www.geeksforgeeks.org/inheritance-in-c/
+- Templates ---> https://www.geeksforgeeks.org/templates-cpp/
 #### Key Points to Remember
 - Difference between pass by value and reference
 - Understanding function prototyping
